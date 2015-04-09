@@ -1,3 +1,2 @@
-language: C#
-rvm: [2.0.0, 1.8.7]
-script: bundle exec ./bin/travis-lint
+language: csharp
+solution: solution-name.sln
